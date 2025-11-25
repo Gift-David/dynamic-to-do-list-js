@@ -30,3 +30,5 @@ document.addEventListener('DOMContentLoaded', () => {
             })
     addButton.addEventListener('click', addTask)
 })
+
+// classList.add
